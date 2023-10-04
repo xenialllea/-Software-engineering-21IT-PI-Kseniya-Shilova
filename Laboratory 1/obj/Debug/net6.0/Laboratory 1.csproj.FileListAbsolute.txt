@@ -1,0 +1,15 @@
+D:\``МГППУ\c#\-Software-engineering-21IT-PI-Kseniya-Shilova\Laboratory 1\bin\Debug\net6.0\Laboratory 1.exe
+D:\``МГППУ\c#\-Software-engineering-21IT-PI-Kseniya-Shilova\Laboratory 1\bin\Debug\net6.0\Laboratory 1.deps.json
+D:\``МГППУ\c#\-Software-engineering-21IT-PI-Kseniya-Shilova\Laboratory 1\bin\Debug\net6.0\Laboratory 1.runtimeconfig.json
+D:\``МГППУ\c#\-Software-engineering-21IT-PI-Kseniya-Shilova\Laboratory 1\bin\Debug\net6.0\Laboratory 1.dll
+D:\``МГППУ\c#\-Software-engineering-21IT-PI-Kseniya-Shilova\Laboratory 1\bin\Debug\net6.0\Laboratory 1.pdb
+D:\``МГППУ\c#\-Software-engineering-21IT-PI-Kseniya-Shilova\Laboratory 1\obj\Debug\net6.0\Laboratory 1.csproj.AssemblyReference.cache
+D:\``МГППУ\c#\-Software-engineering-21IT-PI-Kseniya-Shilova\Laboratory 1\obj\Debug\net6.0\Laboratory 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\``МГППУ\c#\-Software-engineering-21IT-PI-Kseniya-Shilova\Laboratory 1\obj\Debug\net6.0\Laboratory 1.AssemblyInfoInputs.cache
+D:\``МГППУ\c#\-Software-engineering-21IT-PI-Kseniya-Shilova\Laboratory 1\obj\Debug\net6.0\Laboratory 1.AssemblyInfo.cs
+D:\``МГППУ\c#\-Software-engineering-21IT-PI-Kseniya-Shilova\Laboratory 1\obj\Debug\net6.0\Laboratory 1.csproj.CoreCompileInputs.cache
+D:\``МГППУ\c#\-Software-engineering-21IT-PI-Kseniya-Shilova\Laboratory 1\obj\Debug\net6.0\Laboratory 1.dll
+D:\``МГППУ\c#\-Software-engineering-21IT-PI-Kseniya-Shilova\Laboratory 1\obj\Debug\net6.0\refint\Laboratory 1.dll
+D:\``МГППУ\c#\-Software-engineering-21IT-PI-Kseniya-Shilova\Laboratory 1\obj\Debug\net6.0\Laboratory 1.pdb
+D:\``МГППУ\c#\-Software-engineering-21IT-PI-Kseniya-Shilova\Laboratory 1\obj\Debug\net6.0\Laboratory 1.genruntimeconfig.cache
+D:\``МГППУ\c#\-Software-engineering-21IT-PI-Kseniya-Shilova\Laboratory 1\obj\Debug\net6.0\ref\Laboratory 1.dll
