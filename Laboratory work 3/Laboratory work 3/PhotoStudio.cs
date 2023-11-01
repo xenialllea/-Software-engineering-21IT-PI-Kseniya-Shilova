@@ -6,6 +6,8 @@ public class PhotoStudio<T> where T : Order
   
   public PhotoStudio(List<T> orders)
   {
+    if (orders == null || orders.Count == 0)
+      throw new ArgumentException(null, nameof(orders));
     Orders = orders;
   }
 
@@ -17,3 +19,4 @@ public class PhotoStudio<T> where T : Order
     }
   }
 }
+// 
